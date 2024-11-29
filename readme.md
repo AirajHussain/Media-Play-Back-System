@@ -1,4 +1,5 @@
-# Media Play Back System (Final Project Distributed System Instructions) 
+# Media Play Back System 
+(Final Project Distributed System Instructions) 
 
 ## Compilation
 
