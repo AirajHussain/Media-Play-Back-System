@@ -71,4 +71,3 @@ You should have **three separate terminals**:
 ## Client Instructions
 Once the client is running, follow the prompts displayed in the client terminal. Make your selections based on the options provided, and the client will guide you through the functionality (e.g., playback, uploading tracks, or listing available devices).
 
-"# Media-Play-Back-System" 
