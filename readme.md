@@ -6,7 +6,7 @@
 ### Server
 1. Navigate to the server directory:
    ```bash
-   cd /FinalProjDS/server
+   cd /(folder_name)/server
    ```
 2. Compile all server-side Java files:
    ```bash
@@ -16,7 +16,7 @@
 ### Client
 1. Navigate to the client directory:
    ```bash
-   cd /FinalProjDS/client
+   cd /(folder_name)/client
    ```
 2. Compile all client-side Java files:
    ```bash
@@ -30,7 +30,7 @@
 ### Step 1: Start `rmiregistry`
 1. Navigate to the server directory:
    ```bash
-   cd /FinalProjDS/server
+   cd /(folder_name)/server
    ```
 2. Start the `rmiregistry` on your preferred port (default: `1099`):
    ```bash
@@ -41,7 +41,7 @@
 1. Open a new terminal.
 2. Navigate to the server directory:
    ```bash
-   cd /FinalProjDS/server
+   cd /(folder_name)/server
    ```
 3. Run the server:
    ```bash
@@ -52,7 +52,7 @@
 1. Open another terminal.
 2. Navigate to the client directory:
    ```bash
-   cd /FinalProjDS/client
+   cd /(folder_name)/client
    ```
 3. Run the client:
    ```bash
