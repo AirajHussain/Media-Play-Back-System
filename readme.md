@@ -1,5 +1,27 @@
 # Media Play Back System 
-(Final Project Distributed System Instructions) 
+The Media Playback System is a distributed application designed for centralized control of audio playback across multiple devices in a home environment. Built using Java 23, the AudioMixer library, and the Remote Method Invocation (RMI) API, the system allows users to:
+
+- Upload and manage audio files (.MP3, .WAV).
+- Queue and play tracks on any connected media device.
+- Control playback, adjust volume, and switch devices dynamically.
+
+The server handles client requests using RMI, supporting real-time, multi-device audio playback. The system is scalable, intuitive, and sets the foundation for future enhancements such as fault tolerance, cloud connectivity, and improved user interfaces.
+
+# 💻Technologies 
+Below are the technologies for the application 
+
+- Java
+- React.js
+- Python
+- MongoDB
+- RMI API
+
+# 📷 Pictures
+Below are screenshots of the application 
+
+
+
+# Setup Intstructions 
 
 ## Compilation
 
