@@ -19,6 +19,18 @@ Below are the technologies for the application
 # 📷 Pictures
 Below are screenshots of the application 
 
+<img src="https://github.com/AirajHussain/Media-Play-Back-System/blob/main/images/introduction.png" alt="login_page" width="500"/>
+
+Figure A: An initialized media client offering the user introductory options
+
+<img src="https://github.com/AirajHussain/Media-Play-Back-System/blob/main/images/MediaClients.png" alt="login_page" width="500"/>
+
+Figure B: A media client showing the available media clients
+
+<img src="https://github.com/AirajHussain/Media-Play-Back-System/blob/main/images/trackOptions.png" alt="login_page" width="500"/>
+
+Figure C: A media client playing a track and displaying options
+
 
 
 # Setup Intstructions 
@@ -91,7 +103,6 @@ You should have **three separate terminals**:
 
 ---
 
-## Client Instructions
-Once the client is running, follow the prompts displayed in the client terminal. Make your selections based on the options provided, and the client will guide you through the functionality (e.g., playback, uploading tracks, or listing available devices).
+
 
 
